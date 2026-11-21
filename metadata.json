@@ -1,0 +1,6 @@
+{
+  "name": "裁度 Atelier — 数据化服装选型工坊",
+  "description": "用专业服装设计师与制版师的尺寸几何逻辑，通过身体实测数据计算成衣松量、推演上身风格，让每个人用数据而非感觉选择真正适合自己的服装。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
